@@ -6,3 +6,5 @@ Follow the [instructions](https://github.com/LEARNAcademy/Syllabus/blob/master/t
 
 
 Make changes to this file here:
+
+I, Samuel "Samboozle" Bates, am making changes to this code!
